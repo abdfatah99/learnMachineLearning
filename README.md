@@ -1,4 +1,4 @@
-# Machine Learning Resources
+# Machine Learning Resources (from Data Science Indonesia)
 A curated list of awesome machine learning frameworks, libraries, courses, books and many more.  
 Star and Fork our repository for latest update.
 
